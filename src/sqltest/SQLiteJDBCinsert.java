@@ -2,8 +2,7 @@ package sqltest;
 
 import java.sql.*;
 
-public class SQLiteJDBCinsert
-{
+public class SQLiteJDBCinsert{
   public static void main( String args[] )
   {
     Connection c = null;
